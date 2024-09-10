@@ -1,4 +1,8 @@
 # conf
-Лендинг (адаптивно и красиво)
+Лендинг
+
+ - Анимации
+ - Адаптив
+ - Слайдер
 
 [koldik-py.github.io/conf](https://koldik-py.github.io/conf/)
